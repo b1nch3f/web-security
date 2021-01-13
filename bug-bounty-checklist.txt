@@ -1,0 +1,18 @@
+01: Open Redirect 
+02: HTTP Parameter Pollution 
+03: Cross-Site Request Forgery 
+04: HTML Injection and Content Spoofing 
+05: Carriage Return Line Feed Injection 
+06: Cross-Site Scripting 
+07: Template Injection 
+08: SQL Injection 
+09: Server-Side Request Forgery 
+10: XML External Entity
+11: Remote Code Execution 
+12: Memory Vulnerabilities 
+13: Subdomain Takeover 
+14: Race Conditions 
+15: Insecure Direct Object References 
+16: OAuth Vulnerabilities 
+17: Application Logic and Configuration Vulnerabilities 
+18: Vulnerability Reports
